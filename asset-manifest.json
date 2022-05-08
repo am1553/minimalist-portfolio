@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/minimalist-portfolio/static/css/main.933cb8de.css",
+    "main.js": "/minimalist-portfolio/static/js/main.e9e08e74.js",
+    "static/media/entertainment.png": "/minimalist-portfolio/static/media/entertainment.c9fda2e9cdf6ed2d8ea4.png",
+    "static/media/photosnap.png": "/minimalist-portfolio/static/media/photosnap.69471b253a137a1d5ac6.png",
+    "static/media/world.png": "/minimalist-portfolio/static/media/world.4fa4df7814c7f9997e67.png",
+    "static/media/coding.png": "/minimalist-portfolio/static/media/coding.6b43ee7c655f205d7c60.png",
+    "static/media/now.png": "/minimalist-portfolio/static/media/now.576ea4008b413bd33b18.png",
+    "static/media/future.png": "/minimalist-portfolio/static/media/future.1446a0b6fdf800d92f80.png",
+    "static/media/atom-symbol.png": "/minimalist-portfolio/static/media/atom-symbol.5cb83655567dd3efc230.png",
+    "static/media/web-design.png": "/minimalist-portfolio/static/media/web-design.9be7c47864a3382d3a9d.png",
+    "static/media/back-arrow.png": "/minimalist-portfolio/static/media/back-arrow.a5b6324f734f03723ca9.png",
+    "static/media/pattern-right.svg": "/minimalist-portfolio/static/media/pattern-right.6079d3fc2be1033d0ebff1ac06096828.svg",
+    "static/media/pattern-left.svg": "/minimalist-portfolio/static/media/pattern-left.a3fad48eebc478b311d3bcab8ce74293.svg",
+    "index.html": "/minimalist-portfolio/index.html",
+    "static/media/cv.docx": "/minimalist-portfolio/static/media/cv.31d6cfe0d16ae931b73c.docx",
+    "main.933cb8de.css.map": "/minimalist-portfolio/static/css/main.933cb8de.css.map",
+    "main.e9e08e74.js.map": "/minimalist-portfolio/static/js/main.e9e08e74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.933cb8de.css",
+    "static/js/main.e9e08e74.js"
+  ]
+}
