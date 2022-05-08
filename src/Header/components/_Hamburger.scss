@@ -1,0 +1,23 @@
+.header {
+    height: 5rem;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #fff;
+    box-shadow: 0 0 50px -35px $desaturated-black;
+    &__hamburger {
+        border: none;
+        background: transparent;
+        margin: 0 2rem;
+    }
+    .overlay {
+        position: absolute;
+        width: 100%;
+        top: 5rem;
+        height: 100vh;
+        background-color: $desaturated-black;
+        z-index: -1;
+        opacity: 0.8;
+    }
+}
+
