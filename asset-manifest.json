@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.e8906d08.css",
-    "main.js": "/static/js/main.393fee48.js",
+    "main.css": "/static/css/main.8c6d64a9.css",
+    "main.js": "/static/js/main.48f8ffa0.js",
+    "static/media/clock.png": "/static/media/clock.09c0b5544a4527fa55cd.png",
     "static/media/entertainment.png": "/static/media/entertainment.c9fda2e9cdf6ed2d8ea4.png",
+    "static/media/art-gallery.png": "/static/media/art-gallery.5adbda1b6b4d4ec1792a.png",
     "static/media/photosnap.png": "/static/media/photosnap.69471b253a137a1d5ac6.png",
     "static/media/world.png": "/static/media/world.4fa4df7814c7f9997e67.png",
-    "static/media/cv.pdf": "/static/media/cv.209c299b7e37d90183dd.pdf",
+    "static/media/accordion.png": "/static/media/accordion.455624d7e16915a36aa6.png",
+    "static/media/hero.webp": "/static/media/hero.27c5c9e53acd5e87e172.webp",
     "static/media/coding.png": "/static/media/coding.6b43ee7c655f205d7c60.png",
     "static/media/now.png": "/static/media/now.576ea4008b413bd33b18.png",
     "static/media/future.png": "/static/media/future.1446a0b6fdf800d92f80.png",
     "static/media/atom-symbol.png": "/static/media/atom-symbol.5cb83655567dd3efc230.png",
     "static/media/web-design.png": "/static/media/web-design.9be7c47864a3382d3a9d.png",
     "static/media/back-arrow.png": "/static/media/back-arrow.a5b6324f734f03723ca9.png",
-    "static/media/pattern-right.svg": "/static/media/pattern-right.6079d3fc2be1033d0ebff1ac06096828.svg",
-    "static/media/pattern-left.svg": "/static/media/pattern-left.a3fad48eebc478b311d3bcab8ce74293.svg",
     "index.html": "/index.html",
-    "main.e8906d08.css.map": "/static/css/main.e8906d08.css.map",
-    "main.393fee48.js.map": "/static/js/main.393fee48.js.map"
+    "main.8c6d64a9.css.map": "/static/css/main.8c6d64a9.css.map",
+    "main.48f8ffa0.js.map": "/static/js/main.48f8ffa0.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8906d08.css",
-    "static/js/main.393fee48.js"
+    "static/css/main.8c6d64a9.css",
+    "static/js/main.48f8ffa0.js"
   ]
 }
