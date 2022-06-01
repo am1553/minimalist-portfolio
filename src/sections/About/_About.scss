@@ -1,0 +1,28 @@
+@import './components/Card';
+.about {
+    width: 100%;
+    .skills_card_container, .journey_card_container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media screen and (min-width: 1080px) {
+    .about {
+        .skills_card_container, .journey_card_container {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            max-width: 80rem;
+            margin: 0 auto;
+        }
+    }
+}
+
+@media screen and (min-width: 1540px) {
+    .about {
+        max-width: 1540px;
+        margin: 0 auto;
+    }
+}

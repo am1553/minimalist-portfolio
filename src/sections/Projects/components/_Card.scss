@@ -1,0 +1,46 @@
+.projects_container {
+    &__card {
+        max-width: 25rem;
+        margin: 2rem 0;
+        padding-bottom: 2rem;
+        height: 660px;
+        .image_wrapper {
+            height: 300px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .content_wrapper {
+            height: 300px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+        p {
+            margin: 2rem 0;
+        }
+        img {
+            width: 100%;
+        }
+        text-align: center;
+        .text_wrapper {
+            padding: 0 2rem;
+        }
+        .button_wrapper {
+            display: flex;
+            justify-content: space-around;
+            a {
+                color: #000;
+            }
+            button {
+                padding: 0.5rem 2rem;
+                text-transform: uppercase;
+                border-radius: 0.5rem;
+                border: none;
+                background-color: transparent;
+                border: 1px solid black;
+                color: #000;
+            }
+        }
+    }
+}
