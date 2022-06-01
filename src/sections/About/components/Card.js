@@ -3,7 +3,7 @@ import React from 'react'
 
 function Card({ image, title, description, background }) {
   return (
-    <div className='about__card' style={ {backgroundColor: background} } data-aos='slide-right' >
+    <div className='about__card' style={ {backgroundColor: background} } data-aos='fade-right' >
         <div className="about_logo">
             <img src={ image } alt="" />
         </div>
